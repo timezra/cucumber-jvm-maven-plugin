@@ -1,7 +1,7 @@
 cucumber-jvm-maven-plugin
 =========================
 
-A maven plugin for invoking Cucumber-JVM
+A maven plugin for invoking Cucumber-JVM. It can be used in conjunction with the jruby-maven-plugin (https://github.com/timezra/jruby-maven-plugin) for installing bundles before executing specifications. Its use is described in this blog post (http://timezra.blogspot.com/2013/10/cucumber-and-maven.html).
 
 Configuration
 ----------------------------------------------------
